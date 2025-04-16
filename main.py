@@ -53,7 +53,7 @@ def createLetter (file_path_os) :
 
     returnToMain()
 
-# Function to view and read letters
+
 # Function to view and read letters
 def viewInbox():
     if os.path.exists("my_dict.json"):
